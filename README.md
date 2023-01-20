@@ -1,2 +1,3 @@
 # life-story
-practice about git &amp; github
+practice about git and github
+It is my learning session
